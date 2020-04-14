@@ -4,6 +4,12 @@ public class MoodAnalyser
 {
     public String moodAnalyaser(String mood)
     {
-        return "Happy";
+        if ("Happy".contains(mood)) {
+            return "Happy";
+        }
+        else
+        {
+            return "Sad";
+        }
     }
 }

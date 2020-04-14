@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MoodAnalyserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-14T06:03:27" hostname="DESKTOP-9J6MPIC" time="0.003">
+<testsuite name="MoodAnalyserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-14T06:11:09" hostname="DESKTOP-9J6MPIC" time="0.004">
   <properties/>
-  <testcase name="testSad" classname="MoodAnalyserTest" time="0.002"/>
+  <testcase name="testSad" classname="MoodAnalyserTest" time="0.004"/>
   <testcase name="testHappy" classname="MoodAnalyserTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
