@@ -7,9 +7,13 @@ public class MoodAnalyser
         if ("Happy".contains(mood)) {
             return "Happy";
         }
-        else
+        else if("Sad".contains(mood))
         {
             return "Sad";
+        }
+        else
+        {
+            return "InvalidMood";
         }
     }
 }
